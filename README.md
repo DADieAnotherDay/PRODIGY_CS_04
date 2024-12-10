@@ -22,3 +22,6 @@ Compatible with Windows, macOS, and Linux systems.
 The program monitors keyboard inputs.
 Each key press is logged in a file (keystrokes.txt or a user-specified file).
 The logs can be reviewed later for analysis.
+**Required package**
+you need to install ***pynput*** in your system to run this script 
+youb can download **pynput** by using **pip install pynput** command 
