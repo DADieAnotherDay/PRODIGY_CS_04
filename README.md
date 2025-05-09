@@ -1,4 +1,4 @@
-# PRODIGY_CS_04
+# keylogger
 This repository contains a basic keylogger program written in Python. The keylogger captures and logs keystrokes typed on a keyboard and saves them to a file for analysis or record-keeping. This project is designed for educational purposes only to understand how such programs work and to promote ethical cybersecurity practices.
 **Keylogger Program (For Educational Purposes Only)**
 This repository contains a basic keylogger program written in Python. The keylogger captures and logs keystrokes typed on a keyboard and saves them to a file for analysis or record-keeping. This project is designed for educational purposes only to understand how such programs work and to promote ethical cybersecurity practices.
